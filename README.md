@@ -1,5 +1,3 @@
-	<summary>Click to expand</summary>
-	
 ```js
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
