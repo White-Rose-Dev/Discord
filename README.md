@@ -1,3 +1,8 @@
+# 🏆 Discord Quest Spoofer
+
+Este script permite simular progresso em **quests do Discord** (para fins educacionais).  
+Cole no console do Discord (F12) ou use no desktop app, dependendo do tipo de quest.
+
 ```js
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
@@ -152,4 +157,3 @@ if(!quest) {
 		fn()
 	}
 }
-```
