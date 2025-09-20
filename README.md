@@ -1,4 +1,3 @@
-<details>
 	<summary>Click to expand</summary>
 	
 ```js
@@ -156,4 +155,3 @@ if(!quest) {
 	}
 }
 ```
-</details>
