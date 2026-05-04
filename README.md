@@ -1,3 +1,15 @@
+<div align="center">
+
+# ⛔ PROJETO DESCONTINUADO
+
+## Este repositório já não é mantido.
+
+### O Discord está a **banir contas** que usam truques deste género (spoofing de quests, consola do cliente, etc.). **Não uses o código abaixo** — podes perder a tua conta.
+
+---
+
+</div>
+
 # 🏆 Discord Quest Spoofer
 
 Este script permite simular progresso em **quests do Discord** (para fins educacionais).  
